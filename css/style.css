@@ -1,4 +1,4 @@
-body{
+ body{
   margin:0;
   padding:0;
   color:#666;
@@ -119,6 +119,8 @@ main section{background:#eee;padding:40px 0;
 #abilities h6{margin:0px 0px 10px 45px;font-size:30px;
 }
 #abilities .expleft{float:left;margin:0px 90px 0px 100px;display:inline-block;
+}
+#abilities .expsync{float:left;margin:0px 160px 240px 100px;display:inline-block;
 }
 #abilities .expright{margin:10px auto;
 }
