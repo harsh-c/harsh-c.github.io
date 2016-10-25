@@ -83,7 +83,7 @@ main >*:not(.scroll-top){max-width:1024px;margin:0 auto;box-shadow:0px 0px 2px 1
 main header{background:#aaa;color:#fff;text-align:right;padding:70px 10% 50px;-webkit-box-align:end;-webkit-align-items:flex-end;-ms-flex-align:end;-ms-grid-row-align:flex-end;align-items:flex-end;-webkit-align-content:space-around;-ms-flex-line-pack:distribute;align-content:space-around;
 }
 @media(min-width:1023px){
-  main header{padding:50px 30px;
+  main header{padding:0px 30px;
   }
 }
 main header img{border-radius:50%;margin:30px 0 10px;max-width:80%;height:auto;width:250px;
@@ -135,6 +135,8 @@ main section{background:#eee;padding:40px 0;
 #abilities .skillright{margin:10px auto;
 }
 #abilities .skilllang{float:left;margin:0px 190px 0px 100px;display:inline-block;
+}
+#abilities .skillauto{float:left;margin:0px 140px 0px 100px;display:inline-block;
 }
 #abilities .skillframe{float:left;margin:0px 180px 0px 100px;display:inline-block;
 }
