@@ -120,7 +120,7 @@ main section{background:#eee;padding:40px 0;
 }
 #abilities .expleft{float:left;margin:0px 90px 0px 100px;display:inline-block;
 }
-#abilities .expsync{float:left;margin:0px 160px 240px 100px;display:inline-block;
+#abilities .expsync{float:left;margin:0px 160px 265px 100px;display:inline-block;
 }
 #abilities .expright{margin:10px auto;
 }
@@ -136,13 +136,13 @@ main section{background:#eee;padding:40px 0;
 }
 #abilities .skilllang{float:left;margin:0px 190px 0px 100px;display:inline-block;
 }
-#abilities .skillauto{float:left;margin:0px 140px 0px 100px;display:inline-block;
+#abilities .skillauto{float:left;margin:0px 138px 0px 100px;display:inline-block;
 }
 #abilities .skillframe{float:left;margin:0px 180px 0px 100px;display:inline-block;
 }
-#abilities .skillsoft{float:left;margin:0px 150px 0px 100px;display:inline-block;
+#abilities .skillsoft{float:left;margin:0px 148px 0px 100px;display:inline-block;
 }
-#abilities .skillos{float:left;margin:0px 255px 0px 100px;display:inline-block;
+#abilities .skillos{float:left;margin:0px 258px 0px 100px;display:inline-block;
 }
 footer{
   color:#fff;
